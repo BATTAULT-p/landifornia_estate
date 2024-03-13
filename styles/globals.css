@@ -1,0 +1,11 @@
+/* styles/globals.css */
+/* Supprime les marges et paddings par défaut du navigateur */
+html,
+body {
+  padding: 0;
+  margin: 0;
+}
+
+body {
+  font-family: "Montserrat", sans-serif;
+}
